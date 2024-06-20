@@ -44,3 +44,13 @@ That's all, now copy the generate docker command and paste in your termanial.
 
 
 ## Configure Semaphore
+
+* Navigate to http://ip:port
+* Login with login/password you previously set.
+  It will ask you to create a new project
+
+  ![screenshot](doc/configuration1.PNG)
+
+
+
+
