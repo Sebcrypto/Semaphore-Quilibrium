@@ -37,3 +37,10 @@ Change this info:
 
 ![screenshot](doc/settings1.PNG)
 ![screenshot](doc/settings2.PNG)
+
+That's all, now copy the generate docker command and paste in your termanial.
+
+![screenshot](doc/settings3.PNG)
+
+
+## Configure Semaphore
