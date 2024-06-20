@@ -54,9 +54,20 @@ It will ask you to create a new project, Fill the project name you want, and cli
   ![screenshot](doc/configuration1.PNG)
 
 
-* Now you will Add THe Keys:
+* Now you will Add 3 keys:
+
+* First choose SSH Key ( to connect to node via SSH)
 
     ![screenshot](doc/configuration2.PNG)
   
     ![screenshot](doc/configuration3.PNG)
 
+* 2nd Login pass key (for sudo on host)
+
+    ![screenshot](doc/configuration4.PNG)
+
+    ![screenshot](doc/configuration5.PNG)
+
+* 3nd : None Key
+    ![screenshot](doc/configuration6.PNG)
+  
