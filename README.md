@@ -1,4 +1,4 @@
-# SemaphoreQuilibrium
+# Semaphore-Quilibrium
 Install Semaphore WebUI to manage your Ansible Quilibrium Playbook
 
 ## Install Docker
