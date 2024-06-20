@@ -36,6 +36,7 @@ Go to Semaphore Website: https://www.semui.co/install/docker
 Change this info:
 
 ![screenshot](doc/settings1.PNG)
+
 ![screenshot](doc/settings2.PNG)
 
 That's all, now copy the generate docker command and paste in your termanial.
@@ -53,5 +54,9 @@ It will ask you to create a new project, Fill the project name you want, and cli
   ![screenshot](doc/configuration1.PNG)
 
 
+* Now you will Add THe Keys:
 
+    ![screenshot](doc/configuration2.PNG)
+  
+    ![screenshot](doc/configuration3.PNG)
 
