@@ -34,4 +34,6 @@ head -c32 /dev/urandom | base64
 Go to Semaphore Website: https://www.semui.co/install/docker
 
 Change this info:
+
 ![screenshot](doc/settings1.PNG)
+![screenshot](doc/settings2.PNG)
