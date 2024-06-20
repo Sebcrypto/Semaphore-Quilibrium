@@ -23,8 +23,10 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 
 ## Generate Encryption Key
 
-In your terminal, type this command and write the result in a textfile.
-```head -c32 /dev/urandom | base64```
+In your terminal, type this command and copy the result in a textfile.
+```
+head -c32 /dev/urandom | base64
+```
 
 
 ## Install Semaphore
